@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles":[
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "California Power Outages: Fire Danger Prompts Utility to Cut Electricity",
+    "description": "An intentional shut-off by Pacific Gas & Electric, the largest utility in the state, could affect as many as 800,000 customers.",
+    "url": "https://www.nytimes.com/2019/10/09/us/pge-shut-off-power-outage.html",
+    "urlToImage": "https://static01.nyt.com/images/2019/10/09/us/09blackout1/09blackout1-facebookJumbo.jpg",
+    "publishedAt": "2019-10-09T07:00:00+00:00",
+    "content": "Large swaths of central and Northern California were expected to be without electricity on Wednesday as the states largest utility planned to cut power as a safety precaution. The utility, Pacific Gas &amp; Electric, said that around 800,000 customers would b… [+833 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Faith Karimi and LaRell Reynolds, CNN",
+    "title": "Montgomery elected its first black mayor in 200 years. This is why it matters",
+    "description": "In the two centuries since its founding, Alabama's capital of Montgomery and the birthplace of the civil rights movement has never had a black mayor. Until Tuesday.",
+    "url": "https://www.cnn.com/2019/10/09/us/montgomery-alabama-makes-history/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/191008112741-02-steven-reed-alabama-montgomery-super-tease.jpg",
+    "publishedAt": "2019-10-09T06:50:00+00:00",
+    "content": "Montgomery, Alabama (CNN)In the two centuries since its founding, Alabama's capital of Montgomery and the birthplace of the civil rights movement has never had a black mayor. \r\nThat changed Tuesday when Montgomery County probate judge Steven Reed won a runoff… [+3670 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Reuters Editorial",
+    "title": "Johnson faces cabinet revolt over no-deal Brexit - media",
+    "description": "British Prime Minister Boris Johnson is facing a fresh rebellion in his cabinet, with a group of ministers poised to resign due to concerns that he is leading the country towards a no-deal Brexit, The Times newspaper reported on Wednesday.",
+    "url": "https://www.reuters.com/article/uk-britain-eu-resignation-idUSKBN1WO046",
+    "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20191009&t=2&i=1438682483&w=1200&r=LYNXMPEF9805E",
+    "publishedAt": "2019-10-09T02:06:00+00:00",
+    "content": "(Reuters) - British Prime Minister Boris Johnson is facing a fresh rebellion in his cabinet, with a group of ministers poised to resign due to concerns that he is leading the country towards a no-deal Brexit, The Times newspaper reported on Wednesday. \r\nCultu… [+1857 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "https://www.washingtonexaminer.com/author/jerry-dunleavy",
+    "title": "Senate report criticizes Obama FBI response to Russian interference on Twitter and Facebook",
+    "description": "A new report from the Senate Intelligence Committee highlighted the Obama administration's failure to properly warn and work with Twitter and Facebook to battle Kremlin-backed trolls interfering in the 2016 election.",
+    "url": "https://www.washingtonexaminer.com/news/senate-report-criticizes-obama-fbi-response-to-russian-interference-on-twitter-and-facebook",
+    "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/06a3fac/2147483647/strip/true/crop/924x485+0+25/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F71%2F85%2F5bd42bb24dc0b90a78200bf342be%2Fscreen-shot-2019-10-08-at-7.23.33%20PM.png",
+    "publishedAt": "2019-10-09T01:50:00+00:00",
+    "content": "A new report from the Senate Intelligence Committee highlighted the Obama administration's failure to properly warn and work with Twitter and Facebook to battle Kremlin-backed trolls interfering in the 2016 election. \r\nThe Senate report also concluded that th… [+4368 chars]"
+    },
+{
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Associated Press",
+    "title": "Bernie Sanders' daughter-in-law dies of cancer at 46",
+    "description": "The daughter-in-law of Democratic presidential candidate Bernie Sanders has died, shortly after being diagnosed with cancer.",
+    "url": "https://www.nbcnews.com/politics/2020-election/bernie-sanders-daughter-law-dies-cancer-46-n1064051",
+    "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2019_41/3044061/191008-bernie-sanders-campaign-ac-818p_b59f9fa6163cabb3f72eaf6290cdcb08.nbcnews-fp-1200-630.jpg",
+    "publishedAt": "2019-10-09T01:05:00+00:00",
+    "content": "The daughter-in-law of Democratic presidential candidate Bernie Sanders has died, shortly after being diagnosed with cancer. Rainè Riggs was 46.\r\nThe Lee &amp; Martin Funeral Home in Burgettstown, Pennsylvania, says Riggs died Saturday, the day Sanders return… [+632 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Doha Madani",
+    "title": "Video captures Florida store owner firing at customer with AK-47",
+    "description": "Authorities released video Tuesday of a 2017 encounter where a Florida store owner who defended firing an AK-47 to shoot a customer after a verbal dispute.",
+    "url": "https://www.nbcnews.com/news/us-news/video-captures-florida-store-owner-firing-customer-ak-47-n1064036",
+    "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2019_41/3043831/191008-ak47-store-surveillance-ac-612p_d432d499dc5400caefff95c653a21f03.nbcnews-fp-1200-630.jpg",
+    "publishedAt": "2019-10-09T00:40:00+00:00",
+    "content": "Video released Tuesday shows a Florida store owner firing an AK-47 to shoot an unarmed customer after a verbal dispute on Christmas Eve 2017.\r\nSaf Ahmad, the owner of a Kwik Pic convenience store in Lauderhill, Florida, was arrested in December 2017 on a char… [+2835 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "",
+    "title": "Apprehensions At The U.S.-Mexico Border Decline For The 4th Consecutive Month",
+    "description": "Administration officials credit a policy of returning asylum-seeking migrants to Mexico and an end to a policy referred to by critics as \"catch and release.\"",
+    "url": "https://www.npr.org/2019/10/08/768436273/apprehensions-at-the-u-s-mexico-border-decline-for-the-fourth-consecutive-month",
+    "urlToImage": "https://media.npr.org/assets/img/2019/10/08/ap_19158842045916_wide-bfa26c151dac21f00497fa256dfb051fa7152d52.jpg?s=1400",
+    "publishedAt": "2019-10-09T00:17:00+00:00",
+    "content": "Migrants cross the Rio Grande into the United States, to turn themselves over to authorities and ask for asylum, in Ciudad, Juarez, in June.\r\nChristian Torres/AP\r\nThe number of migrants taken into custody after crossing the southern border declined for the fo… [+2683 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Mariah Haas",
+    "title": "Todd Chrisley, wife Julie settle $2 million Georgia tax-evasion case",
+    "description": "\"Chrisley Knows Best\" stars Julie and Todd Chrisley have reached a settlement after allegedly failing to pay hundreds of thousands of dollars in income taxes to the state of Georgia.",
+    "url": "https://www.foxnews.com/entertainment/todd-chrisley-wife-julie-cleared-state-tax-evasion-charge",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/06/6d97776e9e50c9d74e686f74a588e527w-c0xd-w640_h480_q80.jpg",
+    "publishedAt": "2019-10-08T23:45:38+00:00",
+    "content": "\"Chrisley Knows Best\" stars Julie and Todd Chrisley have reached a settlement after allegedly failing to pay hundreds of thousands of dollars in income taxes to the state of Georgia.\r\nA spokesman for the couple, Allan Mayer, announced on Tuesday that the coup… [+2421 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Spencer Ackerman",
+    "title": "Secret Court: FBI Warrantless Searches Were Illegal",
+    "description": "A year ago, the U.S.’ surveillance court ruled that the FBI violated Americans’ privacy by broadly sifting through dragnets of intercepted communications.",
+    "url": "https://www.thedailybeast.com/secret-court-fbi-warrantless-searches-were-illegal",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1570564303/191008-ackerman-FBI-tease_fiwwam",
+    "publishedAt": "2019-10-08T19:59:00+00:00",
+    "content": "Some of the Federal Bureau of Investigations warrantless searches through the National Security Agencys enormous troves of communications data violated the law and the Constitution, according to secret surveillance court rulings partially declassified on Tues… [+6593 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Dan Mangan",
+    "title": "Justice Department asks judge to block House from getting Mueller grand jury materials, says Watergate decision was wrong",
+    "description": "Justice Department lawyers argued that the decision to release normally secret grand jury materials to the House when Richard Nixon faced impeachment, was incorrect.",
+    "url": "https://www.cnbc.com/2019/10/08/justice-department-objects-to-house-getting-mueller-grand-jury-info.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106170458-1570551952583preview.jpg?v=1570551971",
+    "publishedAt": "2019-10-08T16:40:00+00:00",
+    "content": "Justice Department lawyers on Tuesday used the example of Richard Nixon's impeachment inquiry to argue that the House Judiciary Committee should be denied its request to obtain information about grand jury materials assembled under special counsel Robert Muel… [+4270 chars]"
+    }
+    ]
+    }
+    

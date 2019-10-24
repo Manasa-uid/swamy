@@ -1,0 +1,53 @@
+<p>crudoperation works!</p>
+
+<div class="container">
+    <form action=""#userform="ngForm" class="form-horizontal">
+        <div class="form-group">
+        <label class="col-sm-2">First Name:</label>
+        <input type="text" [(ngModel)]="model.firstName" name="firstName" class="form-control" class="col-sm-10">
+    </div>
+    <div class="form-group">
+            <label class="col-sm-2">Last Name:</label>
+            <input type="text" [(ngModel)]="model.lastName" name="lastName" class="form-control" class="col-sm-10">
+    </div>
+    <div class="form-group">
+        <label class="col-sm-2">E-mail:</label>
+        <input type="email" [(ngModel)]="model.mail"  name="mail" class="form-control" class="col-sm-10">
+    </div>
+    <div class="form-group">
+            <label class="col-sm-2">Phone Number:</label>
+            <input type="number" [(ngModel)]="model.phoneNumber" name="phoneNumber" class="form-control" class="col-sm-10">
+        </div>
+
+<div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
+<button type="Submit" class="btn btn-primary"(click)="addEmployee()">Save</button>
+</div>
+</div>
+</form>
+<h1>Read and Delet Data</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            <th>Action</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let emp of employees;let i=index">
+        <td>{{emp.firstName}}</td>
+        <td>{{emp.lastName}}</td>
+        <td>{{emp.mail}}</td>
+        <td>{{emp.phoneNumber}}</td>
+        <td>
+            <button class="btn btn-success"(click)="editEmployee(i)">Edit</button>
+            <button class="btn btn-Danger"(click)="deleteEmployee(i)">Delet</button>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</div>
